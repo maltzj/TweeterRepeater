@@ -1,0 +1,10 @@
+{
+        "name" : "TweeterRepeater",
+        "description" : "A module which allows you to tweet a target from sunup to sundown",
+        "version" : "0.0.1",
+        "dependencies" : {
+           "xml2js": "0.4.2",
+           "cron": "~1.0.1",
+           "request": "2.12.0"
+        }
+}
